@@ -1,0 +1,17 @@
+ul {
+	display:table; margin:0 auto;
+}
+ol {
+	display:table; margin:0 auto;
+}
+p.a {
+    font: 15px verdana, sans-serif;
+}
+
+p.b {
+    font: 15px times, sans-serif;
+}
+
+html {
+	text-align:center; background-color:rgb(255,255,200);
+}

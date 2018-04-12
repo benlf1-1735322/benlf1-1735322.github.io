@@ -1,0 +1,98 @@
+body{
+	background-image: url('dark_wood.png');
+}
+
+p{
+	font-weight: bold;
+	color: white;
+	font-family: "Arial";
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h3{
+	
+}
+
+li{
+	
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+div{
+	background-color: #8E41D5;
+}
+
+#Header{
+	width: 500px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	border-radius: 25px;
+	text-shadow: 3px -3px 3px white;
+}
+
+#Header h1{
+	font-size: 60px;
+	font-family: "Passion One";
+	color: #FFBC00;
+	font-weight: bold;
+	border-radius: 25px;
+}
+
+#LeftNav{
+	width: 400px;
+	float: left;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	padding-bottom: 8px;
+	border:solid 8px black;
+	border-radius: 25px;	
+}
+
+#LeftNav img{
+	
+}
+
+#LeftNav ul{
+	
+}
+
+#LeftNav h3{
+	
+}
+
+#Content{
+	width: 700px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	padding: 15px;
+	border:solid 8px black;
+	border-radius: 25px;
+	background: linear-gradient(#8E41D5, #FFBC00);
+}
+
+#Footer{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	border-radius: 25px;
+	background-color: #FFBC00;
+}
