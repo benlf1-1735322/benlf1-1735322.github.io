@@ -1,9 +1,7 @@
 ul {
 	display:table; margin:0 auto;
 }
-ol {
-	display:table; margin:0 auto;
-}
+
 p.a {
     font: 15px verdana, sans-serif;
 }
@@ -14,4 +12,17 @@ p.b {
 
 html {
 	text-align:center; background-color:rgb(255,255,200);
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
